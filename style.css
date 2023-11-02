@@ -1,0 +1,14 @@
+body{
+animation-name: stp;
+animation-duration: 20s;
+animation-iteration-count: infinite;
+}
+
+@keyframes stp{
+0%{background-image: url(images/IMG_7564.JPG);}
+25%{background-image: url(images/IMG_7565.JPG);}
+50%{background-image: url(images/IMG_7566.JPG);}
+75%{background-image: url(images/IMG_7567.JPG);}
+100%{background-image:  url(images/IMG_7567.JPG);}
+
+}
